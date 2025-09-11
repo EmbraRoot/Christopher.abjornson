@@ -20,7 +20,7 @@ Welcome to my GitHub! Here, I document my journey in cybersecurity, showcasing h
 | Wazuh SIEM         | SOC Automation Lab|
 | Nmap Scanning      | Network Scan|
 | Wireshark                   | Network Monitoring|
-| Home Lab Sandbox | <a ">Networking</a>| | 
+| Home Lab Sandbox | Networking | 
 
 ## Tools
 Reconnaissance & Enumeration
