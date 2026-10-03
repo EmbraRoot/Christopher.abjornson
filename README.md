@@ -54,7 +54,4 @@ Training & Practice Platforms
 </div>
 
 ## Projects
-- <a>Detection Lab</a>
-- <a href="https://github.com/EmbraRoot/Attack-Detect-Homelab">Homelab Lab</a>
-- SOC Automation Project
-- Test Project
+- <a href="https://github.com/EmbraRoot/Attack-Detect-Homelab">HomeLab With Wazuh</a>
