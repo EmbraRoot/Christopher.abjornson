@@ -54,7 +54,7 @@ Training & Practice Platforms
 </div>
 
 ## Projects
-- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
-- Homelab Lab
+- <a>Detection Lab</a>
+- <a href="https://github.com/EmbraRoot/Attack-Detect-Homelab">Homelab Lab</a>
 - SOC Automation Project
 - Test Project
