@@ -50,9 +50,6 @@ Training & Practice Platforms
 
 ## Certifications
 <div>
-<img src="https://coursera.org/share/2b890fa6075677f5c706e5a43390eeab" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
